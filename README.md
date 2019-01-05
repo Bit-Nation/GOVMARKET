@@ -12,7 +12,7 @@ To add a DApp/ Contract/ Service/ Product to the in-app Bitnation GOVMARKET, ple
 
   * a. Name of New DApp/Contract/Service/Product
   * b. Name of New DApp/Contract/Service/Product Producer (e.g. Bitnation, yourcompany name)
-  * c. 2-3 sentences description to it
-  * d. Link to website and if applicaple Github repository
+  * c. 2-3 sentences description about your DApp/Contract/Service/Product
+  * d. Link to website, and if applicaple to the Github repository
   * e. Contact information (email or telegram handle) for us to contact you for further questions
   * f. Status: in development/ in use/ maintained, etc
